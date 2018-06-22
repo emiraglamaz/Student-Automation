@@ -1,0 +1,6 @@
+008	        Hidayet	          takci	           2012	     Elektrik	       4
+002	        Eyup	         Baycol	           2014	     Elektrik	       3
+003	        Muharrem	     Kursun	           2017	     Cevre	   	       1
+005	        Emre	         Aglamaz	       2015	     Bilgisayar	       3
+006	        Baris	           Cama	           2014	     Makina	           3
+007	        kaya	          artan	           2014	     Makina	           4

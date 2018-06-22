@@ -1,0 +1,6 @@
+001        Mimari     fizik    	 Kimya    	Matematik  Algoritma      
+002        Algoritma  Elektrik   Malzeme    Mikro      Matematik 
+003        CevreGiris Fizik      Kimya      Matematik  Algoritma 
+005        Mimari     Algoritma  VeriYapilari Tasarim    Diferansiyel
+006        MakinaGiris Matenatik  Fizik      Kimya      Algoritma 
+007        Algoritma  Matematik  Fizik      Kimya      Veritabani

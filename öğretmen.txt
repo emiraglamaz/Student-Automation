@@ -1,0 +1,4 @@
+            001	        Hidayet	          Takci	     Bilgisayar
+            002	          Dogan	          Karki	     Bilgisayar
+            003	            Ali	           Kaya	          Cevre
+            006	           Ayse	           Sefa	     Bilgisayar

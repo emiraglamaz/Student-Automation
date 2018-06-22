@@ -1,0 +1,8 @@
+            001	      bigisayar
+            002	         mimari
+            003	      algoritma
+            004	     veritabani
+            005	      matematik
+            006	    programlama
+             50	          fizik
+            008	    LineerCebir
